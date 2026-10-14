@@ -1,9 +1,9 @@
 # Vehicle Management
 
 Ứng dụng console Java quản lý phương tiện giao thông tại showroom, dữ liệu lưu trong file `vehicle.dat`.
-Bài tập **LAB211 – J1.L.P00 – The Vehicle Management (Read and Write File)**.
+Bài tập **LAB211 – FA26 – The Vehicle Management (Read and Write File)**.
 
-- **Tác giả:** _<tên của bạn>_
+- **Tác giả:**  Nguyen Thi Ngoc Tram
 - **Ngôn ngữ:** Java (JDK 11 trở lên, khuyến nghị 17)
 - **Giao diện:** Console (menu dạng số)
 - **Lưu trữ:** Object file (`vehicle.dat`) qua `Serializable`
